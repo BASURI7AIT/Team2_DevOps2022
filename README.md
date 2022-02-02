@@ -10,7 +10,7 @@ Angel Agüero (lito.guns@gmail.com)
 
 Nicolas Marque (nicolasm2@gmail.com)
 
-Federico Nuñez nfederico@live.com - www.linkedin.com/in/federico-nunez - SysAdmin
+Federico Nuñez nfederico@live.com - www.linkedin.com/in/federico-nunez - SysAdmin - DevOps
 
 Mariano Antonio Gomez (marianogomez1990@outlook.com) - https://www.linkedin.com/in/dprex
 
