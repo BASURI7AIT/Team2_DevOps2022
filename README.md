@@ -3,7 +3,7 @@ DevOps 2022
 
 PO -> Enzo Gutierrez | gutierrez.enzo07@gmail.com
 
-Scrum Master -> Marcos Martinez: marcosmartinez90@gmail.com
+Scrum Master -> Marcos Martinez: (marcosmartinez90@gmail.com) - https://www.linkedin.com/in/marcos-martinez-88179763 - SysAdmin
 
 Devs ->
 Angel Agüero (lito.guns@gmail.com)
