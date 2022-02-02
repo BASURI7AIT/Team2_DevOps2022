@@ -12,6 +12,6 @@ Nicolas Marque (nicolasm2@gmail.com)
 
 Federico Nuñez nfederico@live.com - www.linkedin.com/in/federico-nunez - SysAdmin
 
-Mariano Antonio Gomez (marianogomez1990@outlook.com)
+Mariano Antonio Gomez (marianogomez1990@outlook.com) - https://www.linkedin.com/in/dprex
 
 Fabian Silva (silvafab@gmail.com) - https://www.linkedin.com/in/silvafab/ - IT Manager - DevOps
