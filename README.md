@@ -8,7 +8,7 @@ Scrum Master -> Marcos Martinez: (marcosmartinez90@gmail.com) - https://www.link
 Devs ->
 Angel Agüero (lito.guns@gmail.com) - https://www.linkedin.com/in/gunslito/ - DevSecOps - DevOps
 
-Nicolas Marque (nicolasm2@gmail.com)
+Nicolas Marque (nicolasm2@gmail.com) - https://www.linkedin.com/in/nicolas-marque-68289b112/ - Cloud Engineer/Devops
 
 Federico Nuñez (nfederico@live.com) - www.linkedin.com/in/federico-nunez - SysAdmin - DevOps
 
