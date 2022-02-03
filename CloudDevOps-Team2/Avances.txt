@@ -1,1 +1,1 @@
-Creamos archiivo README.md y actualizamos roles/perfiles de cada miembro
+Creamos archivo README.md y actualizamos roles/perfiles de cada miembro
