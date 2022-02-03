@@ -1,7 +1,7 @@
 Team 2 
 Carrera DevOps 2022
 
-PO -> Enzo Gutierrez (gutierrez.enzo07@gmail.com)
+PO -> Enzo Gutierrez: (gutierrez.enzo07@gmail.com) - https://www.linkedin.com/in/enzo-hern%C3%A1n-gutierrez-50a03b168/ - IT SemiSenior - DevOps
 
 Scrum Master -> Marcos Martinez: (marcosmartinez90@gmail.com) - https://www.linkedin.com/in/marcos-martinez-88179763 - SysAdmin
 
