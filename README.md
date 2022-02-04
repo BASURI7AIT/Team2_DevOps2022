@@ -1,17 +1,18 @@
-Team 2 
-Carrera DevOps 2022
+##   🤜🤛 Team 2 - Carrera DevOps 2022 EducacionIT ✨
+#
+### PO
+- Enzo Gutierrez - (gutierrez.enzo07@gmail.com) - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/enzo-hern%C3%A1n-gutierrez-50a03b168/) - IT SemiSenior - DevOps
+### Scrum Master 
+- Marcos Martinez - (marcosmartinez90@gmail.com) - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/marcos-martinez-88179763) - SysAdmin
+### Devs 
 
-PO -> Enzo Gutierrez: (gutierrez.enzo07@gmail.com) - https://www.linkedin.com/in/enzo-hern%C3%A1n-gutierrez-50a03b168/ - IT SemiSenior - DevOps
+- Angel Agüero (lito.guns@gmail.com) - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gunslito/) - DevSecOps - DevOps
 
-Scrum Master -> Marcos Martinez: (marcosmartinez90@gmail.com) - https://www.linkedin.com/in/marcos-martinez-88179763 - SysAdmin
+- Nicolas Marque (nicolasm2@gmail.com) - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nicolas-marque-68289b112/) - Cloud Engineer - DevOps
 
-Devs ->
-Angel Agüero (lito.guns@gmail.com) - https://www.linkedin.com/in/gunslito/ - DevSecOps - DevOps
+- Federico Nuñez (nfederico@live.com) - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/federico-nunez) - SysAdmin - DevOps
 
-Nicolas Marque (nicolasm2@gmail.com) - https://www.linkedin.com/in/nicolas-marque-68289b112/ - Cloud Engineer/Devops
+- Mariano Antonio Gomez (marianogomez1990@outlook.com) - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dprex)  - DevOps
 
-Federico Nuñez (nfederico@live.com) - www.linkedin.com/in/federico-nunez - SysAdmin - DevOps
-
-Mariano Antonio Gomez - (marianogomez1990@outlook.com) - https://www.linkedin.com/in/dprex - DevOps
-
-Fabian Silva (silvafab@gmail.com) - https://www.linkedin.com/in/silvafab/ - IT Manager - DevOps
+- Fabian Silva (silvafab@gmail.com) -
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/silvafab/) - IT Manager - DevOps
