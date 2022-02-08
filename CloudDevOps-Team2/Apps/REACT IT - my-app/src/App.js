@@ -8,7 +8,6 @@ function App() {
       <header className="App-header">
         <img src={logo2} className="App-logo" alt="logo" />
         <p>
-          Editen <code>src/App.js</code> y guarden para testear!
         </p>
         <a
           className="App-link"
@@ -16,12 +15,14 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <p>Bienvenidos a EducacionIT!</p>
-          <p>Y a la Carrera CloudDevOps!!</p>
-          <p> Espero aprendan mucho y disfruten aprendiendo!</p>
-            <p>Los veo en Clase!!</p>
-         <p> Go Devops!!</p>
-         <p>gino.luciano.rojo@..</p>
+          <p>Bienvenidos</p>
+          <p>Esta es la carrera de DevOps en EducacionIT</p>
+          <p>
+
+          </p>
+            <p></p>
+         <p></p>
+         <p></p>
         </a>
       </header>
     </div>

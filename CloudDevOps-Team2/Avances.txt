@@ -1,1 +1,7 @@
 Creamos archivo README.md y actualizamos roles/perfiles de cada miembro
+ |_Se instaló Visual Studio Code
+ |_Se instalaron plugins para VSC
+ |_Se sincroniza repositorio GitHub del Team 2 en los Visual Studio Code de los miembros
+
+Reunión 8/02 estamos verificando que las tareas del Sprint 1 y el 2 estén terminadas.
+ |_Se instalaron plugins en Visual Studio
